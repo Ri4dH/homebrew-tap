@@ -1,6 +1,6 @@
 cask "disablebar" do
-  version "1.2.0"
-  sha256 "f4a7497cba0e1f07f373b126b04a60a9e5958f2b33113119efb56a5f8fd8cd88"
+  version "1.2.1"
+  sha256 "584aa9ffd32759286ac10829ab16684f882d47092dafbb3762b9ab30015c2c43"
 
   url "https://github.com/Ri4dH/disablebar/releases/download/v#{version}/DisableBar-#{version}.dmg"
   name "DisableBar"
